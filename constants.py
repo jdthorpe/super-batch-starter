@@ -1,0 +1,5 @@
+GLOBAL_CONFIG_FILE = "config.pickle"
+TASK_RESOURCE_FILE = "resource.pickle"
+TASK_OUTPUT_FILE = "output.pickle"
+LOCAL_RESOURCE_PATTERN = "task_{}_resource.pickle"
+LOCAL_OUTPUT_PATTERN = "task_{}_output.pickle"

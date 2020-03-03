@@ -1,4 +1,4 @@
-def task(global_config, parameters):
-    "<<< your worker code goes here >>> "
+def task(global_parameters, task_parameters):
+    "<<< YOUR CODE GOES HERE >>> "
     pass
 
